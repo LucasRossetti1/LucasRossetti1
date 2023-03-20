@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Sobre mi:
-¡Hola!, desarrollo programas con Python hace alrededor de un año, intento mejorar y aprender algo día a día y escucho cualquier crítica/consejo para mejorar.
+¡Hola!, desarrollo programas con Python hace alrededor de un año, intento mejorar y aprender algo nuevo día a día y escucho cualquier crítica/consejo para mejorar.
 
 Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, ya sea con mis herramientas actuales o aprendiendo nuevas. 
 
